@@ -26,7 +26,7 @@ const Projects = () => {
                             <img
                                 width={300}
                                 height={150}
-                                src="10626306.jpg"
+                                src="ecommerce.jpg"
                                 alt="E-commerce Website"
                                 className='mb-6 rounded'
                             />
