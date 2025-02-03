@@ -71,7 +71,7 @@ const Experience = () => {
                         initial={{ opacity: 0, x: 100 }}
                         transition={{ duration: 1 }} className='w-full max-w-xl lg:w-3/4'>
                         <h6 className='mb-2 font-semibold'>
-                            Software Engineer - <span className='text-sm text-purple-100'>LVPEI (L.V. Prasad Eye Institute)</span>
+                            Software Developer - <span className='text-sm text-purple-100'>LVPEI (L.V. Prasad Eye Institute)</span>
                         </h6>
                         <p className='mb-4 text-neutral-400'>
                             Leading the development of a comprehensive eye recovery management system for the institute using cutting-edge web technologies.
