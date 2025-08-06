@@ -55,7 +55,7 @@ const Contact = () => {
           {/* Optional Social Links Section */}
           <div className="mt-6 flex justify-center space-x-5">
             <motion.a
-              href="https://www.linkedin.com/in/tanaykumar1432"
+              href="https://www.linkedin.com/in/tanaykumar1826"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.2 }}
